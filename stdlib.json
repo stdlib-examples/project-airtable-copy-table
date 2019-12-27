@@ -1,0 +1,15 @@
+{
+  "name": "keith/copy-table",
+  "timeout": 20000,
+  "version": "0.0.0",
+  "description": "Copy an Airtable Table from one Base to Another",
+  "timeout": 20000,
+  "env": [
+    {
+      "name": "STDLIB_SECONDARY_TOKEN",
+      "defaultValue": "",
+      "description": "A General Use Token that the Airtable Receiver Base is associated with"
+    }
+  ],
+  "events": []
+}

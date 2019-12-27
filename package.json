@@ -1,0 +1,7 @@
+{
+  "name": "keith/copy-table",
+  "author": "keith",
+  "dependencies": {
+    "lib": "^4.0.5"
+  }
+}
