@@ -132,8 +132,15 @@ You'll need the following environment variables handy:
 
 ## 5. That's it!
 
-You're all done. Run your endpoint with `count` = `10` (or whatever you please),
-and voila! The end state of your tables should look like this:
+You're all done. Run your endpoint with `count` = `10` (or whatever you please).
+You can do this by accessing your endpoint directly at:
+
+`https://[YOU].api.stdlib.com/copy-table@dev/copy-table/?count=10&sourceTableName=[SOURCE_TABLE]&destinationTableName=[DESTINATION_TABLE]`
+
+Please make sure `[YOU]`, `[SOURCE_TABLE]` and `[DESTINATION_TABLE]` are entered
+appropriately.
+
+Voila! The end state of your tables should look like this:
 
 <img src="/readme/images/13-initial-table-final.png" width="400">
 
