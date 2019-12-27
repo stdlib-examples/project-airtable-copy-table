@@ -180,7 +180,7 @@ Via Slack: [`libdev.slack.com`](https://libdev.slack.com/)
 You can request an invitation by clicking `Community > Slack` in the top bar
 on [`https://stdlib.com`](https://stdlib.com).
 
-Via Twitter: [@StdLibHQ](https://twitter.com/StdLibHQ)
+Via Twitter: [@StandardLibrary](https://twitter.com/StandardLibrary)
 
 Via E-mail: [support@stdlib.com](mailto:support@stdlib.com)
 
