@@ -4,7 +4,7 @@ Airtable currently provides no built-in functionality to copy the entire content
 of an Base's Table to another Base. This is a script that can easily copy the
 contents of `SRC_BASE.SRC_TABLE` to `DEST_BASE.DEST_TABLE`.
 
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 # Example Usage
 
@@ -128,7 +128,7 @@ You'll need the following environment variables handy:
 
 - `STDLIB_SECONDARY_TOKEN`: See above instructions
 
-[<img src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
+[<img src="https://deploy.stdlib.com/static/images/deploy.svg?" width="192">](https://deploy.stdlib.com/)
 
 ## 5. That's it!
 
